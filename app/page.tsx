@@ -22,7 +22,7 @@ export default function Home() {
   ];
   useEffect(() => {
     const fetchData = async () => {
-      const response = await fetch("./data/gamesData.json");
+      const response = await fetch("/data/gamesData.json");
       const jsonData = await response.json();
       const sortData = (games: any[]) => {
         return games.sort((a, b) => {
