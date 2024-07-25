@@ -1,0 +1,72 @@
+[
+  {
+    "title": "The Coffin of Andy and Leyley",
+    "rating": 9.2,
+    "tags": ["horror", "teenager", "comedy", "graphic", "story"],
+    "image": "/gameImages/tcoaal.jpg",
+    "id": "uuid1"
+  },
+  {
+    "title": "The Witcher 3",
+    "rating": 7.5,
+    "tags": ["adventure", "open world", "action", "story"],
+    "image": "/gameImages/thewitcher3.jpg",
+    "id": "uuid2"
+  },
+  {
+    "title": "Bioshock",
+    "rating": 9,
+    "tags": ["horror", "action", "adventure", "story"],
+    "image": "/gameImages/bioshock.jpg",
+    "id": "uuid3"
+  },
+  {
+    "title": "God of War 2018",
+    "rating": 9.2,
+    "tags": ["open world", "action", "adventure", "story"],
+    "image": "/gameImages/gow2018.jpg",
+    "id": "uuid4"
+  },
+  {
+    "title": "Cyberpunk 2077",
+    "rating": 8,
+    "tags": ["open world", "story", "action"],
+    "image": "/gameImages/cyberpunk2077.jpg",
+    "id": "uuid5"
+  },
+  {
+    "title": "Sekiro: Shadows die twice",
+    "rating": 9.1,
+    "tags": ["action", "adventure", "story", "graphic"],
+    "image": "/gameImages/sekiro.jpg",
+    "id": "uuid6"
+  },
+  {
+    "title": "Portal",
+    "rating": 8.2,
+    "tags": ["horror", "story", "comedy"],
+    "image": "/gameImages/portal.jpg",
+    "id": "uuid7"
+  },
+  {
+    "title": "Dying Light 2",
+    "rating": 7.9,
+    "tags": ["horror", "story", "open world", "adventure", "action"],
+    "image": "/gameImages/dyinglight2.jpg",
+    "id": "uuid8"
+  },
+  {
+    "title": "Age of Mythology",
+    "rating": 10,
+    "tags": ["rts"],
+    "image": "/gameImages/aom.jpg",
+    "id": "uuid9"
+  },
+  {
+    "title": "Minecraft",
+    "rating": 10,
+    "tags": ["open world, survival, adventure"],
+    "image": "/gameImages/minecraft.jpg",
+    "id": "uuid10"
+  }
+]
